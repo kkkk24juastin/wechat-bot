@@ -111,13 +111,37 @@
 
 ## 赞助商
 
-<p align="center">
-  <a href="https://gpt302.saaslink.net/hqRIfk" target="_blank">
-    <img src="./sponsors/302AI.png" alt="Hi" width="200" />
-  </a>
-</p>
-
-> 302.AI 是一个按需付费的一站式 AI 应用平台，为用户解决 AI 用于实践的最后一公里问题。 [产品链接](https://gpt302.saaslink.net/hqRIfk) | [网站介绍](https://gpt302.saaslink.net/hqRIfk)
+<div align="center">
+  <table>
+    <!-- Header -->
+    <tr>
+      <td align="center" width="50%">
+        <p align="center">
+          <a href="https://302.ai" target="_blank">
+            <img src="./sponsors/302AI.png" alt="Hi"/>
+          </a>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <p align="center">
+          <a href="https://302.ai" target="_blank">
+            <img src="./sponsors/server.jpg" alt="Hi"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+    <!-- des -->
+    <tr>
+      <td align="left">
+        302.AI 是一个汇集全球顶级 AI 的自助平台，按需付费，零月费，零门槛使用各种类型 AI。
+        <a href="https://help.302.ai" target="_blank">网站介绍</a>
+        |
+        <a href="https://302.ai" target="_blank">产品链接</a>
+      </td>
+      <td align="left">提供claude gemini 等模型 价格低至0.55一刀 (vx: spkf789)</td>
+    </tr>
+  </table>
+</div>
 
 目前该项目流量较大，已经上过 27 次 [Github Trending 榜](https://github.com/trending)，如果您的公司或者产品需要推广，可以在下方二维码处联系我，我会在项目中加入您的广告，帮助您的产品获得更多的曝光。
 
