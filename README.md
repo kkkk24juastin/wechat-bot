@@ -132,17 +132,10 @@
   <table>
     <!-- Header -->
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="100%">
         <p align="center">
           <a href="https://gpt302.saaslink.net/hqRIfk" target="_blank">
-            <img src="./sponsors/302AI.png" alt="Hi"/>
-          </a>
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <p align="center">
-          <a href="" target="_blank">
-            <img src="./sponsors/server.jpg" alt="Hi"/>
+            <img src="./sponsors/302AI.png" alt="Hi" width="300px"/>
           </a>
         </p>
       </td>
@@ -150,10 +143,9 @@
     <!-- des -->
     <tr>
       <td align="left">
-        302.AI 是一个汇集全球顶级 AI 的自助平台，按需付费，零月费，零门槛使用各种类型 AI。
+        302.AI是一个按需付费的一站式企业级AI应用平台，开放平台，开源生态，让AI为每个需求找到答案。
         <a href="https://gpt302.saaslink.net/hqRIfk" target="_blank">产品链接</a>
       </td>
-      <td align="left">提供claude gemini 等模型 价格低至0.55一刀 (vx: spkf789)</td>
     </tr>
   </table>
 </div>
