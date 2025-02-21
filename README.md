@@ -27,7 +27,7 @@
 
 - ChatGPT
 
-  先获取自己的 `api key`，地址戳这里 👉🏻 ：[创建你的 api key](https://beta.openai.com/account/api-keys)
+  先获取自己的 `api key`，地址戳这里 👉🏻 ：[创建你的 api key](https://platform.openai.com/settings/organization/api-keys)
 
   **注意：这个是需要去付费购买的，很多人过来问为什么请求不通，请确保终端走了代理，并且付费购买了它的服务**
 
@@ -235,7 +235,7 @@ AUTO_REPLY_PREFIX=''
 
 可以进交流群,一起交流探讨相关问题和解决方案，添加的时候记得备注来意。（如果项目对你有所帮助，也可以请我喝杯咖啡 ☕️ ~）
 
-| <img src="https://github.com/user-attachments/assets/902b1a20-0ea0-4348-9ac1-b9eb6645223c" width="180px"> | <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202303151014249.JPG" width="180px"> |
+| <img src="https://github.com/user-attachments/assets/902b1a20-0ea0-4348-9ac1-b9eb6645223c" width="180px"> | <img src="https://raw.githubusercontent.com/wangrongding/image-house/master/202502201503306.png" width="180px"> |
 | --- | --- |
 
 ### 运行报错等问题
